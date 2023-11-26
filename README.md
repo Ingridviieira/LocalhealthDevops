@@ -1,8 +1,7 @@
-# LocalhealthDevops
 
-<h1 Textalign="center">Local Health 🔍</h1>
+<h1 align="center">Local Health 🔍</h1>
 
-<p Textalign="center">
+<p align="center">
 <img loading="lazy" src="https://img.shields.io/badge/status%3A-conclu%C3%ADdo-green"/>
 </p>
 
